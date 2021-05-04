@@ -1,0 +1,38 @@
+com/example/caloriecal/CaloriesGraph.java
+ com.example.caloriecal.CaloriesGraph
+com/example/caloriecal/DataBaseHelper.java
+ com.example.caloriecal.DataBaseHelper
+com/example/caloriecal/bmr.java
+ com.example.caloriecal.bmr
+ com.example.caloriecal.bmr$1
+com/example/caloriecal/ViewListContents.java
+ com.example.caloriecal.ViewListContents
+ com.example.caloriecal.ViewListContents$1
+ com.example.caloriecal.ViewListContents$2
+com/example/caloriecal/FourColumn_ListAdapter.java
+ com.example.caloriecal.FourColumn_ListAdapter
+com/example/caloriecal/profile.java
+ com.example.caloriecal.profile
+ com.example.caloriecal.profile$1
+ com.example.caloriecal.profile$2
+ com.example.caloriecal.profile$3
+ com.example.caloriecal.profile$4
+ com.example.caloriecal.profile$5
+ com.example.caloriecal.profile$6
+ com.example.caloriecal.profile$7
+ com.example.caloriecal.profile$8
+ com.example.caloriecal.profile$9
+com/example/caloriecal/User.java
+ com.example.caloriecal.User
+com/example/caloriecal/ViewHealthyBmiContents.java
+ com.example.caloriecal.ViewHealthyBmiContents
+ com.example.caloriecal.ViewHealthyBmiContents$1
+ com.example.caloriecal.ViewHealthyBmiContents$2
+com/example/caloriecal/bmi.java
+ com.example.caloriecal.bmi
+ com.example.caloriecal.bmi$1
+com/example/caloriecal/MainActivity.java
+ com.example.caloriecal.MainActivity
+ com.example.caloriecal.MainActivity$1
+com/example/caloriecal/BuildConfig.java
+ com.example.caloriecal.BuildConfig
